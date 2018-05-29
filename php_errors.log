@@ -1,0 +1,372 @@
+[15-Aug-2017 17:02:35 UTC] PHP Catchable fatal error:  Object of class Gato could not be converted to string in /home/ubuntu/workspace/A2-/a1-teste.php on line 12
+[15-Aug-2017 17:02:35 UTC] PHP Stack trace:
+[15-Aug-2017 17:02:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-/a1-teste.php:0
+[15-Aug-2017 17:02:35 UTC] PHP   2. Gato->miar() /home/ubuntu/workspace/A2-/a1-teste.php:30
+[15-Aug-2017 17:04:08 UTC] PHP Catchable fatal error:  Object of class Gato could not be converted to string in /home/ubuntu/workspace/A1-POO/a1-teste.php on line 12
+[15-Aug-2017 17:04:08 UTC] PHP Stack trace:
+[15-Aug-2017 17:04:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/A1-POO/a1-teste.php:0
+[15-Aug-2017 17:04:08 UTC] PHP   2. Gato->miar() /home/ubuntu/workspace/A1-POO/a1-teste.php:38
+[15-Aug-2017 19:10:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/A2-/calc.php on line 16
+[15-Aug-2017 19:17:30 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A2-Contador-Calc/calc.php on line 57
+[15-Aug-2017 19:17:30 UTC] PHP Stack trace:
+[15-Aug-2017 19:17:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/calc.php:0
+[15-Aug-2017 19:17:30 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A2-Contador-Calc/calc.php on line 58
+[15-Aug-2017 19:17:30 UTC] PHP Stack trace:
+[15-Aug-2017 19:17:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/calc.php:0
+[15-Aug-2017 19:18:36 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A2-Contador-Calc/calc.php on line 53
+[15-Aug-2017 19:18:36 UTC] PHP Stack trace:
+[15-Aug-2017 19:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/calc.php:0
+[15-Aug-2017 19:18:36 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A2-Contador-Calc/calc.php on line 54
+[15-Aug-2017 19:18:36 UTC] PHP Stack trace:
+[15-Aug-2017 19:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/calc.php:0
+[15-Aug-2017 19:23:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/A2-Contador-Calc/calc.php on line 18
+[15-Aug-2017 20:19:22 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php on line 64
+[15-Aug-2017 20:19:22 UTC] PHP Stack trace:
+[15-Aug-2017 20:19:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php:0
+[15-Aug-2017 20:20:45 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php on line 64
+[15-Aug-2017 20:20:45 UTC] PHP Stack trace:
+[15-Aug-2017 20:20:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php:0
+[15-Aug-2017 20:24:21 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php on line 70
+[15-Aug-2017 20:24:21 UTC] PHP Stack trace:
+[15-Aug-2017 20:24:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php:0
+[22-Aug-2017 18:17:54 UTC] PHP Warning:  Missing argument 1 for Revolver::__construct(), called in /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php on line 65 and defined in /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php on line 25
+[22-Aug-2017 18:17:54 UTC] PHP Stack trace:
+[22-Aug-2017 18:17:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php:0
+[22-Aug-2017 18:17:54 UTC] PHP   2. Revolver->__construct() /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php:65
+[22-Aug-2017 18:17:54 UTC] PHP Warning:  Missing argument 2 for Revolver::__construct(), called in /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php on line 65 and defined in /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php on line 25
+[22-Aug-2017 18:17:54 UTC] PHP Stack trace:
+[22-Aug-2017 18:17:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php:0
+[22-Aug-2017 18:17:54 UTC] PHP   2. Revolver->__construct() /home/ubuntu/workspace/A2-Contador-Calc/exec-revolver.php:65
+[22-Aug-2017 20:05:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/A3/resp.php on line 6
+[22-Aug-2017 20:08:35 UTC] PHP Parse error:  syntax error, unexpected '$quad' (T_VARIABLE) in /home/ubuntu/workspace/A3/resp.php on line 7
+[22-Aug-2017 20:09:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/A3/quadrado.php on line 40
+[22-Aug-2017 20:09:34 UTC] PHP Stack trace:
+[22-Aug-2017 20:09:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/A3/resp.php:0
+[22-Aug-2017 20:49:28 UTC] PHP Catchable fatal error:  Object of class Quadrado could not be converted to string in /home/ubuntu/workspace/A3/resp.php on line 8
+[22-Aug-2017 20:49:28 UTC] PHP Stack trace:
+[22-Aug-2017 20:49:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/A3/resp.php:0
+[22-Aug-2017 20:49:28 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A3/resp.php:20
+[31-Aug-2017 18:03:15 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 92
+[31-Aug-2017 18:03:15 UTC] PHP Stack trace:
+[31-Aug-2017 18:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[31-Aug-2017 18:03:57 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 97
+[31-Aug-2017 18:03:57 UTC] PHP Stack trace:
+[31-Aug-2017 18:03:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[31-Aug-2017 18:05:20 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 97
+[31-Aug-2017 18:05:20 UTC] PHP Stack trace:
+[31-Aug-2017 18:05:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[31-Aug-2017 18:06:18 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 97
+[31-Aug-2017 18:06:18 UTC] PHP Stack trace:
+[31-Aug-2017 18:06:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[31-Aug-2017 18:07:05 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 96
+[31-Aug-2017 18:07:05 UTC] PHP Stack trace:
+[31-Aug-2017 18:07:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[31-Aug-2017 18:09:42 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 105
+[31-Aug-2017 18:09:42 UTC] PHP Stack trace:
+[31-Aug-2017 18:09:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[31-Aug-2017 18:10:05 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 105
+[31-Aug-2017 18:10:05 UTC] PHP Stack trace:
+[31-Aug-2017 18:10:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[31-Aug-2017 18:10:24 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 105
+[31-Aug-2017 18:10:24 UTC] PHP Stack trace:
+[31-Aug-2017 18:10:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[31-Aug-2017 18:12:08 UTC] PHP Fatal error:  Call to undefined function verificarConsumo() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 107
+[31-Aug-2017 18:12:08 UTC] PHP Stack trace:
+[31-Aug-2017 18:12:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[01-Sep-2017 19:24:45 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 100
+[01-Sep-2017 19:24:45 UTC] PHP Stack trace:
+[01-Sep-2017 19:24:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[01-Sep-2017 19:26:25 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 105
+[01-Sep-2017 19:26:25 UTC] PHP Stack trace:
+[01-Sep-2017 19:26:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[01-Sep-2017 19:28:22 UTC] PHP Catchable fatal error:  Object of class Pessoa could not be converted to string in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 79
+[01-Sep-2017 19:28:22 UTC] PHP Stack trace:
+[01-Sep-2017 19:28:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[01-Sep-2017 19:28:22 UTC] PHP   2. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu.php:126
+[01-Sep-2017 19:28:58 UTC] PHP Catchable fatal error:  Object of class Pessoa could not be converted to string in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 79
+[01-Sep-2017 19:28:58 UTC] PHP Stack trace:
+[01-Sep-2017 19:28:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[01-Sep-2017 19:28:58 UTC] PHP   2. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu.php:126
+[01-Sep-2017 19:29:15 UTC] PHP Catchable fatal error:  Object of class Pessoa could not be converted to string in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 79
+[01-Sep-2017 19:29:15 UTC] PHP Stack trace:
+[01-Sep-2017 19:29:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[01-Sep-2017 19:29:15 UTC] PHP   2. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu.php:126
+[01-Sep-2017 19:30:33 UTC] PHP Catchable fatal error:  Object of class Pessoa could not be converted to string in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 79
+[01-Sep-2017 19:30:33 UTC] PHP Stack trace:
+[01-Sep-2017 19:30:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[01-Sep-2017 19:30:33 UTC] PHP   2. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu.php:126
+[01-Sep-2017 20:01:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 95
+[04-Sep-2017 20:13:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ubuntu/workspace/A4-listaExerc/resp.php on line 4
+[04-Sep-2017 21:09:57 UTC] PHP Fatal error:  Cannot redeclare class Churrasco in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 163
+[04-Sep-2017 21:09:57 UTC] PHP Stack trace:
+[04-Sep-2017 21:09:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 21:11:49 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 163
+[04-Sep-2017 21:12:53 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 219
+[04-Sep-2017 21:18:23 UTC] PHP Parse error:  syntax error, unexpected '$Jack' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 107
+[04-Sep-2017 21:21:45 UTC] PHP Parse error:  syntax error, unexpected '$Jack' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 110
+[04-Sep-2017 21:25:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 107
+[04-Sep-2017 21:48:37 UTC] PHP Catchable fatal error:  Object of class Churrasco could not be converted to string in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 93
+[04-Sep-2017 21:48:37 UTC] PHP Stack trace:
+[04-Sep-2017 21:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 21:48:37 UTC] PHP   2. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 21:49:20 UTC] PHP Fatal error:  Call to undefined method Pessoa::mostrar_quem() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 131
+[04-Sep-2017 21:49:20 UTC] PHP Stack trace:
+[04-Sep-2017 21:49:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 21:49:51 UTC] PHP Catchable fatal error:  Object of class Churrasco could not be converted to string in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 93
+[04-Sep-2017 21:49:51 UTC] PHP Stack trace:
+[04-Sep-2017 21:49:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 21:49:51 UTC] PHP   2. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:08:50 UTC] PHP Catchable fatal error:  Object of class Pessoa could not be converted to string in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 88
+[04-Sep-2017 23:08:50 UTC] PHP Stack trace:
+[04-Sep-2017 23:08:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:08:50 UTC] PHP   2. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu.php:143
+[04-Sep-2017 23:16:09 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 145
+[04-Sep-2017 23:16:09 UTC] PHP Stack trace:
+[04-Sep-2017 23:16:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:16:09 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 150
+[04-Sep-2017 23:16:09 UTC] PHP Stack trace:
+[04-Sep-2017 23:16:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:27:27 UTC] PHP Warning:  Missing argument 1 for Churrasco::verificarConsumo(), called in /home/ubuntu/workspace/A4-listaExerc/1chu-resp.php on line 23 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 74
+[04-Sep-2017 23:27:27 UTC] PHP Stack trace:
+[04-Sep-2017 23:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu-resp.php:0
+[04-Sep-2017 23:27:27 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu-resp.php:32
+[04-Sep-2017 23:27:27 UTC] PHP   3. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu-resp.php:23
+[04-Sep-2017 23:29:15 UTC] PHP Warning:  Missing argument 1 for Churrasco::verificarConsumo(), called in /home/ubuntu/workspace/A4-listaExerc/1chu-resp.php on line 23 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 74
+[04-Sep-2017 23:29:15 UTC] PHP Stack trace:
+[04-Sep-2017 23:29:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu-resp.php:0
+[04-Sep-2017 23:29:15 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu-resp.php:32
+[04-Sep-2017 23:29:15 UTC] PHP   3. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu-resp.php:23
+[04-Sep-2017 23:38:41 UTC] PHP Warning:  Missing argument 1 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 129 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 44
+[04-Sep-2017 23:38:41 UTC] PHP Stack trace:
+[04-Sep-2017 23:38:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:38:41 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:38:41 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:129
+[04-Sep-2017 23:38:41 UTC] PHP Warning:  Missing argument 2 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 129 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 44
+[04-Sep-2017 23:38:41 UTC] PHP Stack trace:
+[04-Sep-2017 23:38:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:38:41 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:38:41 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:129
+[04-Sep-2017 23:38:41 UTC] PHP Warning:  Missing argument 3 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 129 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 44
+[04-Sep-2017 23:38:41 UTC] PHP Stack trace:
+[04-Sep-2017 23:38:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:38:41 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:38:41 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:129
+[04-Sep-2017 23:38:41 UTC] PHP Warning:  Missing argument 4 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 129 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 44
+[04-Sep-2017 23:38:41 UTC] PHP Stack trace:
+[04-Sep-2017 23:38:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:38:41 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:38:41 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:129
+[04-Sep-2017 23:39:00 UTC] PHP Warning:  Missing argument 1 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 129 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 44
+[04-Sep-2017 23:39:00 UTC] PHP Stack trace:
+[04-Sep-2017 23:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:39:00 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:39:00 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:129
+[04-Sep-2017 23:39:00 UTC] PHP Warning:  Missing argument 2 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 129 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 44
+[04-Sep-2017 23:39:00 UTC] PHP Stack trace:
+[04-Sep-2017 23:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:39:00 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:39:00 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:129
+[04-Sep-2017 23:39:00 UTC] PHP Warning:  Missing argument 3 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 129 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 44
+[04-Sep-2017 23:39:00 UTC] PHP Stack trace:
+[04-Sep-2017 23:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:39:00 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:39:00 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:129
+[04-Sep-2017 23:39:00 UTC] PHP Warning:  Missing argument 4 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 129 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 44
+[04-Sep-2017 23:39:00 UTC] PHP Stack trace:
+[04-Sep-2017 23:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:39:00 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:151
+[04-Sep-2017 23:39:00 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:129
+[04-Sep-2017 23:40:54 UTC] PHP Warning:  Missing argument 1 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 118 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 42
+[04-Sep-2017 23:40:54 UTC] PHP Stack trace:
+[04-Sep-2017 23:40:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:40:54 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:139
+[04-Sep-2017 23:40:54 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:118
+[04-Sep-2017 23:40:54 UTC] PHP Warning:  Missing argument 2 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 118 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 42
+[04-Sep-2017 23:40:54 UTC] PHP Stack trace:
+[04-Sep-2017 23:40:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:40:54 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:139
+[04-Sep-2017 23:40:54 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:118
+[04-Sep-2017 23:40:54 UTC] PHP Warning:  Missing argument 3 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 118 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 42
+[04-Sep-2017 23:40:54 UTC] PHP Stack trace:
+[04-Sep-2017 23:40:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:40:54 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:139
+[04-Sep-2017 23:40:54 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:118
+[04-Sep-2017 23:40:54 UTC] PHP Warning:  Missing argument 4 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 118 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 42
+[04-Sep-2017 23:40:54 UTC] PHP Stack trace:
+[04-Sep-2017 23:40:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:40:54 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:139
+[04-Sep-2017 23:40:54 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:118
+[04-Sep-2017 23:41:58 UTC] PHP Warning:  Missing argument 1 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 65
+[04-Sep-2017 23:41:58 UTC] PHP Stack trace:
+[04-Sep-2017 23:41:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:41:58 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:41:58 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:41:58 UTC] PHP Warning:  Missing argument 2 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 65
+[04-Sep-2017 23:41:58 UTC] PHP Stack trace:
+[04-Sep-2017 23:41:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:41:58 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:41:58 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:41:58 UTC] PHP Warning:  Missing argument 3 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 65
+[04-Sep-2017 23:41:58 UTC] PHP Stack trace:
+[04-Sep-2017 23:41:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:41:58 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:41:58 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:41:58 UTC] PHP Warning:  Missing argument 4 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 65
+[04-Sep-2017 23:41:58 UTC] PHP Stack trace:
+[04-Sep-2017 23:41:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:41:58 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:41:58 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:52:12 UTC] PHP Warning:  Missing argument 1 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 124 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 45
+[04-Sep-2017 23:52:12 UTC] PHP Stack trace:
+[04-Sep-2017 23:52:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:52:12 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:145
+[04-Sep-2017 23:52:12 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:124
+[04-Sep-2017 23:52:12 UTC] PHP Warning:  Missing argument 2 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 124 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 45
+[04-Sep-2017 23:52:12 UTC] PHP Stack trace:
+[04-Sep-2017 23:52:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:52:12 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:145
+[04-Sep-2017 23:52:12 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:124
+[04-Sep-2017 23:52:12 UTC] PHP Warning:  Missing argument 3 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 124 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 45
+[04-Sep-2017 23:52:12 UTC] PHP Stack trace:
+[04-Sep-2017 23:52:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:52:12 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:145
+[04-Sep-2017 23:52:12 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:124
+[04-Sep-2017 23:52:12 UTC] PHP Warning:  Missing argument 4 for Pessoa::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 124 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 45
+[04-Sep-2017 23:52:12 UTC] PHP Stack trace:
+[04-Sep-2017 23:52:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:52:12 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:145
+[04-Sep-2017 23:52:12 UTC] PHP   3. Pessoa->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:124
+[04-Sep-2017 23:53:30 UTC] PHP Warning:  Missing argument 1 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 64
+[04-Sep-2017 23:53:30 UTC] PHP Stack trace:
+[04-Sep-2017 23:53:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:53:30 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:53:30 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:53:30 UTC] PHP Warning:  Missing argument 2 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 64
+[04-Sep-2017 23:53:30 UTC] PHP Stack trace:
+[04-Sep-2017 23:53:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:53:30 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:53:30 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:53:30 UTC] PHP Warning:  Missing argument 3 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 64
+[04-Sep-2017 23:53:30 UTC] PHP Stack trace:
+[04-Sep-2017 23:53:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:53:30 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:53:30 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:53:30 UTC] PHP Warning:  Missing argument 4 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 64
+[04-Sep-2017 23:53:30 UTC] PHP Stack trace:
+[04-Sep-2017 23:53:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:53:30 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:53:30 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:54:04 UTC] PHP Warning:  Missing argument 1 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 66
+[04-Sep-2017 23:54:04 UTC] PHP Stack trace:
+[04-Sep-2017 23:54:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:54:04 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:54:04 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:54:04 UTC] PHP Warning:  Missing argument 2 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 66
+[04-Sep-2017 23:54:04 UTC] PHP Stack trace:
+[04-Sep-2017 23:54:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:54:04 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:54:04 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:54:04 UTC] PHP Warning:  Missing argument 3 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 66
+[04-Sep-2017 23:54:04 UTC] PHP Stack trace:
+[04-Sep-2017 23:54:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:54:04 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:54:04 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[04-Sep-2017 23:54:04 UTC] PHP Warning:  Missing argument 4 for Churrasco::__construct(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 121 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 66
+[04-Sep-2017 23:54:04 UTC] PHP Stack trace:
+[04-Sep-2017 23:54:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[04-Sep-2017 23:54:04 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:141
+[04-Sep-2017 23:54:04 UTC] PHP   3. Churrasco->__construct() /home/ubuntu/workspace/A4-listaExerc/1chu.php:121
+[05-Sep-2017 00:02:14 UTC] PHP Warning:  Missing argument 1 for Churrasco::verificarConsumo(), called in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 131 and defined in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 73
+[05-Sep-2017 00:02:14 UTC] PHP Stack trace:
+[05-Sep-2017 00:02:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[05-Sep-2017 00:02:14 UTC] PHP   2. Teste->testar() /home/ubuntu/workspace/A4-listaExerc/1chu.php:140
+[05-Sep-2017 00:02:14 UTC] PHP   3. Churrasco->verificarConsumo() /home/ubuntu/workspace/A4-listaExerc/1chu.php:131
+[05-Sep-2017 00:04:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 105
+[05-Sep-2017 12:23:13 UTC] PHP Fatal error:  Call to undefined method Churrasco::mostrar() in /home/ubuntu/workspace/A4-listaExerc/1chu.php on line 169
+[05-Sep-2017 12:23:13 UTC] PHP Stack trace:
+[05-Sep-2017 12:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/A4-listaExerc/1chu.php:0
+[05-Sep-2017 18:43:26 UTC] PHP Fatal error:  Cannot access private property Foo::$b in /home/ubuntu/workspace/A5/acesso.php on line 27
+[05-Sep-2017 18:43:26 UTC] PHP Stack trace:
+[05-Sep-2017 18:43:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/A5/acesso.php:0
+[05-Sep-2017 19:29:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/A5/ex.php on line 22
+[05-Sep-2017 19:30:35 UTC] PHP Parse error:  syntax error, unexpected 'mostrarDados' (T_STRING), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/A5/ex.php on line 31
+[05-Sep-2017 19:34:45 UTC] PHP Parse error:  syntax error, unexpected 'mostrarDados' (T_STRING), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/A5/ex.php on line 31
+[05-Sep-2017 19:35:14 UTC] PHP Parse error:  syntax error, unexpected 'mostrarDados' (T_STRING), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/A5/ex.php on line 31
+[05-Sep-2017 20:29:50 UTC] PHP Fatal error:  Cannot re-assign $this in /home/ubuntu/workspace/A5/metmag.php on line 11
+[05-Sep-2017 20:30:54 UTC] PHP Fatal error:  Cannot re-assign $this in /home/ubuntu/workspace/A5/metmag.php on line 11
+[05-Sep-2017 20:34:30 UTC] PHP Fatal error:  Method Foo::__get() must take exactly 1 argument in /home/ubuntu/workspace/A5/metmag.php on line 12
+[05-Sep-2017 20:34:38 UTC] PHP Fatal error:  Method Foo::__get() must take exactly 1 argument in /home/ubuntu/workspace/A5/metmag.php on line 12
+[05-Sep-2017 20:35:00 UTC] PHP Fatal error:  Method Foo::__get() must take exactly 1 argument in /home/ubuntu/workspace/A5/metmag.php on line 12
+[12-Sep-2017 18:44:18 UTC] PHP Catchable fatal error:  Object of class Aluno could not be converted to string in /home/ubuntu/workspace/A6/has-a.php on line 50
+[12-Sep-2017 18:44:18 UTC] PHP Stack trace:
+[12-Sep-2017 18:44:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/has-a.php:0
+[12-Sep-2017 18:44:18 UTC] PHP   2. Aluno->mostrarDados() /home/ubuntu/workspace/A6/has-a.php:65
+[12-Sep-2017 18:58:49 UTC] PHP Fatal error:  Call to undefined method Curso::getDuracao() in /home/ubuntu/workspace/A6/has-a.php on line 58
+[12-Sep-2017 18:58:49 UTC] PHP Stack trace:
+[12-Sep-2017 18:58:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/has-a.php:0
+[12-Sep-2017 18:58:49 UTC] PHP   2. Aluno->estaFormado() /home/ubuntu/workspace/A6/has-a.php:71
+[12-Sep-2017 19:01:23 UTC] PHP Fatal error:  Call to undefined method Curso::getDuracao() in /home/ubuntu/workspace/A6/has-a.php on line 57
+[12-Sep-2017 19:01:23 UTC] PHP Stack trace:
+[12-Sep-2017 19:01:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/has-a.php:0
+[12-Sep-2017 19:01:23 UTC] PHP   2. Aluno->estaFormado() /home/ubuntu/workspace/A6/has-a.php:77
+[12-Sep-2017 19:01:26 UTC] PHP Fatal error:  Call to undefined method Curso::getDuracao() in /home/ubuntu/workspace/A6/has-a.php on line 57
+[12-Sep-2017 19:01:26 UTC] PHP Stack trace:
+[12-Sep-2017 19:01:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/has-a.php:0
+[12-Sep-2017 19:01:26 UTC] PHP   2. Aluno->estaFormado() /home/ubuntu/workspace/A6/has-a.php:77
+[12-Sep-2017 19:01:31 UTC] PHP Fatal error:  Call to undefined method Curso::getDuracao() in /home/ubuntu/workspace/A6/has-a.php on line 57
+[12-Sep-2017 19:01:31 UTC] PHP Stack trace:
+[12-Sep-2017 19:01:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/has-a.php:0
+[12-Sep-2017 19:01:31 UTC] PHP   2. Aluno->estaFormado() /home/ubuntu/workspace/A6/has-a.php:77
+[12-Sep-2017 19:02:19 UTC] PHP Fatal error:  Call to undefined method Curso::getDuracao() in /home/ubuntu/workspace/A6/has-a.php on line 57
+[12-Sep-2017 19:02:19 UTC] PHP Stack trace:
+[12-Sep-2017 19:02:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/has-a.php:0
+[12-Sep-2017 19:02:19 UTC] PHP   2. Aluno->estaFormado() /home/ubuntu/workspace/A6/has-a.php:78
+[12-Sep-2017 19:27:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/A6/livro.php on line 36
+[12-Sep-2017 19:27:06 UTC] PHP Stack trace:
+[12-Sep-2017 19:27:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/livro.php:0
+[12-Sep-2017 19:27:06 UTC] PHP   2. Estante->listarLivros() /home/ubuntu/workspace/A6/livro.php:82
+[12-Sep-2017 19:27:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/A6/livro.php on line 36
+[12-Sep-2017 19:27:39 UTC] PHP Stack trace:
+[12-Sep-2017 19:27:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/livro.php:0
+[12-Sep-2017 19:27:39 UTC] PHP   2. Estante->listarLivros() /home/ubuntu/workspace/A6/livro.php:82
+[12-Sep-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/A6/livro.php on line 36
+[12-Sep-2017 19:30:40 UTC] PHP Stack trace:
+[12-Sep-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/livro.php:0
+[12-Sep-2017 19:30:40 UTC] PHP   2. Estante->listarLivros() /home/ubuntu/workspace/A6/livro.php:82
+[12-Sep-2017 19:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/A6/livro.php on line 36
+[12-Sep-2017 19:33:37 UTC] PHP Stack trace:
+[12-Sep-2017 19:33:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/livro.php:0
+[12-Sep-2017 19:33:37 UTC] PHP   2. Estante->listarLivros() /home/ubuntu/workspace/A6/livro.php:82
+[12-Sep-2017 19:42:42 UTC] PHP Warning:  Missing argument 2 for Estante::__construct(), called in /home/ubuntu/workspace/A6/livro.php on line 78 and defined in /home/ubuntu/workspace/A6/livro.php on line 15
+[12-Sep-2017 19:42:42 UTC] PHP Stack trace:
+[12-Sep-2017 19:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/livro.php:0
+[12-Sep-2017 19:42:42 UTC] PHP   2. Estante->__construct() /home/ubuntu/workspace/A6/livro.php:78
+[12-Sep-2017 19:42:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/A6/livro.php on line 36
+[12-Sep-2017 19:42:42 UTC] PHP Stack trace:
+[12-Sep-2017 19:42:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/A6/livro.php:0
+[12-Sep-2017 19:42:42 UTC] PHP   2. Estante->listarLivros() /home/ubuntu/workspace/A6/livro.php:82
+[02-Oct-2017 17:04:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ubuntu/workspace/A6/exerc.php on line 55
+[03-Oct-2017 02:05:00 UTC] PHP Fatal error:  Call to a member function listarJogadores() on a non-object in /home/ubuntu/workspace/SimuladoP1/3time.php on line 57
+[03-Oct-2017 02:05:00 UTC] PHP Stack trace:
+[03-Oct-2017 02:05:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/SimuladoP1/3time.php:0
+[03-Oct-2017 02:05:26 UTC] PHP Fatal error:  Call to undefined method Jogador::listarJogadores() in /home/ubuntu/workspace/SimuladoP1/3time.php on line 57
+[03-Oct-2017 02:05:26 UTC] PHP Stack trace:
+[03-Oct-2017 02:05:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/SimuladoP1/3time.php:0
+[03-Oct-2017 02:05:37 UTC] PHP Fatal error:  Call to undefined method Jogador::listarJogadores() in /home/ubuntu/workspace/SimuladoP1/3time.php on line 57
+[03-Oct-2017 02:05:37 UTC] PHP Stack trace:
+[03-Oct-2017 02:05:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/SimuladoP1/3time.php:0
+[03-Oct-2017 02:05:48 UTC] PHP Fatal error:  Call to undefined method Jogador::calcularTotal() in /home/ubuntu/workspace/SimuladoP1/3time.php on line 58
+[03-Oct-2017 02:05:48 UTC] PHP Stack trace:
+[03-Oct-2017 02:05:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/SimuladoP1/3time.php:0
+[03-Oct-2017 14:24:29 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/A7/heranca.php on line 86
+[03-Oct-2017 14:24:29 UTC] PHP Stack trace:
+[03-Oct-2017 14:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/A7/heranca.php:0
+[03-Oct-2017 14:24:59 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/A7/heranca.php on line 86
+[03-Oct-2017 14:24:59 UTC] PHP Stack trace:
+[03-Oct-2017 14:24:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/A7/heranca.php:0
+[03-Oct-2017 14:25:18 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/A7/heranca.php on line 86
+[03-Oct-2017 14:25:18 UTC] PHP Stack trace:
+[03-Oct-2017 14:25:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/A7/heranca.php:0
+[03-Oct-2017 14:50:04 UTC] PHP Fatal error:  Cannot redeclare class Onibus in /home/ubuntu/workspace/SimuladoP1/onibus.php on line 97
+[03-Oct-2017 14:50:04 UTC] PHP Stack trace:
+[03-Oct-2017 14:50:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/SimuladoP1/onibus.php:0
